@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">لعبة التخمين</string>
+    <string name="bravo" translatable="false">جيد جدا</string>
+    <string name="non" translatable="false">لا</string>
+    <string name="oui" translatable="false">نعم</string>
+    <string name="rejouer" translatable="false">مجددا</string>
+    <string name="str_devinez" translatable="false">خمن</string>
+    <string name="str_score" translatable="false">الرصيد :</string>
+    <string name="valeur_inf" translatable="false">العدد كبير</string>
+    <string name="valeur_sup" translatable="false">العدد صغير</string>
+</resources>

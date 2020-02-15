@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Prediction Game</string>
+    <string name="str_devinez">Devinez</string>
+    <string name="str_score">Score :</string>
+    <string name="valeur_sup">Valeur est sup</string>
+    <string name="valeur_inf">Valeur est Inf</string>
+    <string name="bravo">Bravo</string>
+    <string name="rejouer">Rejouer ?</string>
+    <string name="oui">OUI</string>
+    <string name="non">NON</string>
+</resources>
